@@ -10,7 +10,7 @@ import UIKit
 
 class ViewController: UIViewController {
 
-    @IBOutlet weak var myLabel: UILabel!
+    @IBOutlet weak var thisLabel: UILabel!
     
     override func viewDidLoad() {
         super.viewDidLoad()
@@ -18,7 +18,7 @@ class ViewController: UIViewController {
     }
 
     @IBAction func change(_ sender: Any) {
-        myLabel.text = "Hello iPhone"
+        thisLabel.text = "Hello iPhone"
     }
     
 }

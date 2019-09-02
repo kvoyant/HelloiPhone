@@ -38,7 +38,7 @@
                         <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
                     </view>
                     <connections>
-                        <outlet property="myLabel" destination="bUr-wV-Gsw" id="e79-cW-n4p"/>
+                        <outlet property="thisLabel" destination="bUr-wV-Gsw" id="0hV-me-8WK"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
